@@ -18,5 +18,7 @@ Languages :
 French & English (already included in the plugin files)
 
 Website : https://developement.design/
+
 Skype : ef.team
+
 Email : business@developement.design (business only, not support)
