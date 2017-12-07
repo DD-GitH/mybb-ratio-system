@@ -19,6 +19,8 @@ French & English (already included in the plugin files)
 
 Website : https://developement.design/
 
+Support : https://developement.design/forum/forumdisplay.php?fid=13
+
 Skype : ef.team
 
 Email : business@developement.design (business only, not support)
